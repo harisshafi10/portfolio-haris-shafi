@@ -23,14 +23,18 @@ Hosting: (Add your hosting platform, e.g., Netlify, Vercel)
 Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository:
-git clone https://github.com/harisshafi10/portfolio-haris-shafi.git
+1. Clone the repository: 
+	git clone https://github.com/harisshafi10/portfolio-haris-shafi.git
 2. Navigate to the project directory:
+   
    cd portfolio-haris-shafi
 3. Install the necessary dependencies:
+   
    npm install
 4. Run the development server:
+   
    npm start
+
 The portfolio will now be running at http://localhost:3000.
 
 Usage
