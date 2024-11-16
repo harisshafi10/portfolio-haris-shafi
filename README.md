@@ -42,7 +42,7 @@ To run this portfolio locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/harisshafi10/portfolio-haris-shafi.git
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
